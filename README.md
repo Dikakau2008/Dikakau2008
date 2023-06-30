@@ -1,16 +1,14 @@
-### Hi there 👋
+### bem vindo ao meu perfil 🤙
 
-<!--
-**Dikakau2008/Dikakau2008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é Kauã
 
-Here are some ideas to get you started:
+- estou estudando no Alura
+- utilizo esse espaço para minha organização e compartilhar meus projetos desenvolvidos
+## voce pode entrar eto comigo atraves do meu email
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- kaua.silva19@escola.pr.gov.br
+
+![](https://media.tenor.com/uRgUZ63aOmYAAAAC/we-found-you-carnage.gif
+)
+
+
